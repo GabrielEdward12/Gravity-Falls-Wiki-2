@@ -107,7 +107,7 @@ footer {
 
 body {
     background-color: rgb(174, 133, 0);
-    background-image: url('img/back.webp');
+    background-image: url('../img/back.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
